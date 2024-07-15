@@ -1,0 +1,21 @@
+.presentation_picture {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.presentation_picture img {
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.home_title {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.home_description {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #666;
+}
